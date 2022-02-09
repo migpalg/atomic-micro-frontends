@@ -1,9 +1,21 @@
 {
-  "name": "micro-react-components",
-  "version": "1.0.0",
-  "main": "index.js",
+  "name": "@micro/react",
+  "description": "React Wrapper for Micro Design System",
+  "keywords": [
+    "react",
+    "javascript",
+    "design"
+  ],
+  "version": "0.0.0",
+  "main": "dist/index.js",
   "license": "MIT",
+  "author": {
+    "name": "Miguel Palacio",
+    "email": "migpalg@gmail.com",
+    "url": "https://migpalg.dev/"
+  },
+  "dependencies": {},
   "devDependencies": {
-    "typescript": "^4.5.5"
+    "sass": "^1.49.7"
   }
 }
