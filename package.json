@@ -1,0 +1,23 @@
+{
+  "name": "atomic-micro-frontends",
+  "version": "0.0.0",
+  "private": true,
+  "license": "MIT",
+  "description": "Micro Front-Ends repository",
+  "keywords": [
+    "monorepo",
+    "javascript",
+    "typescript"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^8.8.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "lerna": "^4.0.0",
+    "prettier": "^2.5.1"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}

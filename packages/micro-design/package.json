@@ -1,0 +1,17 @@
+{
+  "name": "@micro/design",
+  "description": "Minimal Design System written in CSS",
+  "keywords": [],
+  "version": "0.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Miguel Palacio",
+    "email": "migpalg@gmail.com",
+    "url": "https://migpalg.dev/"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.49.7"
+  }
+}
